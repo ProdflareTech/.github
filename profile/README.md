@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile/title.svg" alt="ProdflareTech Banner" width="560" />
+</p>
 
 ---
 
@@ -143,7 +146,13 @@ We welcome collaboration from:
 
 ---
 
+## Organization Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProdflareTech&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="ProdflareTech GitHub Stats" />
+</p>
+
+---
 
 ## Connect With Us
 
