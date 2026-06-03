@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/title.svg" alt="ProdflareTech Banner" width="560" />
+  <img src="/title.svg" alt="ProdflareTech Banner" width="560" />
 </p>
 
 ---
