@@ -5,7 +5,7 @@
     width="560"
   />
 </p>
----
+
 
 > **ProdflareTech** is a high-velocity technology startup studio and software build squad. We specialize in engineering high-performance software products, artificial intelligence systems, and edge-driven digital platforms designed to scale globally.
 
@@ -152,7 +152,7 @@ We welcome collaboration from:
 ## Organization Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProdflareTech&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0366d6&text_color=24292e&icon_color=0366d6" alt="ProdflareTech GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHETYGURU&theme=github-compact" />
 </p>
 
 ---
