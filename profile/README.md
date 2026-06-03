@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="/title.svg" alt="ProdflareTech Banner" width="560" />
+  <img
+    src="https://raw.githubusercontent.com/ProdflareTech/.github/main/profile/title.svg"
+    alt="ProdflareTech Banner"
+    width="560"
+  />
 </p>
-
 ---
 
 > **ProdflareTech** is a high-velocity technology startup studio and software build squad. We specialize in engineering high-performance software products, artificial intelligence systems, and edge-driven digital platforms designed to scale globally.
