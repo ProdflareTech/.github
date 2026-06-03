@@ -32,7 +32,7 @@ We are a core team of engineers and architects focused on product-driven systems
         <strong style="font-size: 1.1em; display: inline-block; margin-top: 10px;">Gururaj Shetty</strong>
       </a>
       <br/>
-      <span style="color: #586069; font-size: 0.9em; font-weight: 600;">Owner & Chief Architect</span>
+      <span style="color: #586069; font-size: 0.9em; font-weight: 600;"> Chief Architect</span>
       <br/>
       <small style="color: #6a737d;">System Design • Infrastructure • Product Strategy</small>
     </td>
